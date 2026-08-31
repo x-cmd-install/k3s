@@ -1,0 +1,62 @@
+about:
+  description: Lightweight Kubernetes
+  license: Apache-2.0
+  homepage: https://k3s.io
+  head: 99d5575
+  archived: false
+  latestVersion: v1.36.4+k3s1
+  collectedAt: 2026-08-31T05:35:33Z
+timeline:
+  created: 2018-05-31
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-27
+popularity:
+  star: 33851
+  watcher: 289
+  fork: 2713
+  release: 1029
+  contributor: 305
+  pullRequest: 705
+  issue: 7693
+language:
+  Go: 1855466
+  Shell: 145541
+  HCL: 12821
+  Go Template: 12065
+  Ruby: 10911
+  Dockerfile: 5426
+  Makefile: 2236
+totalLine: 2044466
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 10
+    mergedPR: 31
+    openPR: 13
+    closedIssue: 7
+    openIssue: 5
+    commit: 21
+  last90d:
+    since: 2026-06-02
+    release: 33
+    mergedPR: 195
+    openPR: 15
+    closedIssue: 143
+    openIssue: 9
+    commit: 114
+  last180d:
+    since: 2026-03-04
+    release: 76
+    mergedPR: 399
+    openPR: 17
+    closedIssue: 300
+    openIssue: 15
+    commit: 234
+  last360d:
+    since: 2025-09-05
+    release: 100
+    mergedPR: 780
+    openPR: 18
+    closedIssue: 679
+    openIssue: 19
+    commit: 493
