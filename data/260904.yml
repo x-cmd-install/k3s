@@ -7,13 +7,13 @@ about:
   head: a305766
   archived: false
   latestVersion: v1.37.0-rc3+k3s1
-  collectedAt: 2026-09-04T19:37:38Z
+  collectedAt: 2026-09-04T20:56:21Z
 timeline:
   created: 2018-05-31
   lastCommit: 2026-09-04
   lastRelease: 2026-09-03
 popularity:
-  star: 33884
+  star: 33883
   watcher: 292
   fork: 2716
   release: 1032
@@ -86,6 +86,74 @@ total:
   openIssue: 62
   commit: 4291
 ---
+path: /home/runner/.x-repo/github.com/k3s-io/k3s
+collectedAt: 2026-09-04T20:57:01Z
+loc:
+  Go:
+    code: 49672
+    comments: 3614
+    blanks: 6158
+    files: 338
+  Yaml:
+    code: 9680
+    comments: 123
+    blanks: 101
+    files: 107
+  Sh:
+    code: 3080
+    comments: 479
+    blanks: 534
+    files: 29
+  Bash:
+    code: 696
+    comments: 45
+    blanks: 136
+    files: 17
+  Hcl:
+    code: 455
+    comments: 4
+    blanks: 89
+    files: 10
+  Ruby:
+    code: 235
+    comments: 21
+    blanks: 17
+    files: 2
+  Dockerfile:
+    code: 133
+    comments: 3
+    blanks: 18
+    files: 3
+  Makefile:
+    code: 85
+    comments: 0
+    blanks: 25
+    files: 2
+  RPMSpecfile:
+    code: 51
+    comments: 6
+    blanks: 14
+    files: 1
+  Json:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2675
+    blanks: 1059
+    files: 60
+  Text:
+    code: 0
+    comments: 10
+    blanks: 0
+    files: 3
+total:
+  code: 64178
+  comments: 6987
+  blanks: 8152
+  files: 573
 ---
 date: "2026-09-04T12:40:38Z"
 repo:
