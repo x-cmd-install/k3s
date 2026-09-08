@@ -5,7 +5,7 @@ about:
   head: a305766
   archived: false
   latestVersion: "v1.37.0-rc3+k3s1"
-  collectedAt: 2026-09-08T01:26:59Z
+  collectedAt: 2026-09-08T03:26:25Z
 timeline:
   created: 2018-05-31
   lastCommit: 2026-09-04
@@ -85,7 +85,7 @@ total:
   commit: 4291
 ---
 path: /home/runner/.x-repo/github.com/k3s-io/k3s
-collectedAt: 2026-09-08T01:28:43Z
+collectedAt: 2026-09-08T03:27:41Z
 loc:
   Go:
     code: 49672
