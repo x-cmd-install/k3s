@@ -30,9 +30,9 @@ Overall score: **8 / 10**
 
 Lowest-scoring checks:
 
-- **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1033 · **Merged PRs**: 4908 · **Open PRs**: 17 · **Closed issues**: 7651 · **Open issues**: 72 · **Commits**: 4299
+- **Releases**: 1033 · **Merged PRs**: 4913 · **Open PRs**: 12 · **Closed issues**: 7651 · **Open issues**: 72 · **Commits**: 4301
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 10 | 56 | 10 | 13 | 25 | 34 |
-| last60d | 2026-07-12 | 22 | 131 | 12 | 29 | 26 | 80 |
-| 90d | 2026-06-12 | 37 | 192 | 12 | 116 | 28 | 119 |
-| last180d | 2026-03-14 | 76 | 405 | 14 | 272 | 34 | 249 |
-| 360d | 2025-09-15 | 100 | 795 | 15 | 666 | 38 | 504 |
-| last720d | 2024-09-20 | 100 | 1452 | 15 | 1685 | 46 | 960 |
+| 30d | 2026-08-11 | 10 | 61 | 5 | 13 | 25 | 36 |
+| last60d | 2026-07-12 | 22 | 136 | 7 | 29 | 26 | 82 |
+| 90d | 2026-06-12 | 37 | 197 | 7 | 116 | 28 | 121 |
+| last180d | 2026-03-14 | 76 | 410 | 9 | 272 | 34 | 251 |
+| 360d | 2025-09-15 | 100 | 800 | 10 | 666 | 38 | 506 |
+| last720d | 2024-09-20 | 100 | 1457 | 10 | 1685 | 46 | 962 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:29:12Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:27:14Z._

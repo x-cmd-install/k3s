@@ -12,7 +12,7 @@ Lightweight Kubernetes
 x install k3s
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **64,278** 行代码（覆盖前 5 种语言、共 **502** 个文件）。
 
@@ -30,9 +30,9 @@ x install k3s
 
 评分最低的几项:
 
-- **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -52,18 +52,18 @@ x install k3s
 
 ## 累计统计
 
-- **发布数**: 1033 · **已合并 PR**: 4908 · **开放 PR**: 17 · **已关闭 issue**: 7651 · **开放 issue**: 72 · **提交数**: 4299
+- **发布数**: 1033 · **已合并 PR**: 4913 · **开放 PR**: 12 · **已关闭 issue**: 7651 · **开放 issue**: 72 · **提交数**: 4301
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 10 | 56 | 10 | 13 | 25 | 34 |
-| last60d | 2026-07-12 | 22 | 131 | 12 | 29 | 26 | 80 |
-| 90d | 2026-06-12 | 37 | 192 | 12 | 116 | 28 | 119 |
-| last180d | 2026-03-14 | 76 | 405 | 14 | 272 | 34 | 249 |
-| 360d | 2025-09-15 | 100 | 795 | 15 | 666 | 38 | 504 |
-| last720d | 2024-09-20 | 100 | 1452 | 15 | 1685 | 46 | 960 |
+| 30d | 2026-08-11 | 10 | 61 | 5 | 13 | 25 | 36 |
+| last60d | 2026-07-12 | 22 | 136 | 7 | 29 | 26 | 82 |
+| 90d | 2026-06-12 | 37 | 197 | 7 | 116 | 28 | 121 |
+| last180d | 2026-03-14 | 76 | 410 | 9 | 272 | 34 | 251 |
+| 360d | 2025-09-15 | 100 | 800 | 10 | 666 | 38 | 506 |
+| last720d | 2024-09-20 | 100 | 1457 | 10 | 1685 | 46 | 962 |
 
 ## Release 资产
 
@@ -104,4 +104,4 @@ k3s 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:29:13Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:27:15Z._
