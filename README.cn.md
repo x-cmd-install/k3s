@@ -12,6 +12,28 @@ Lightweight Kubernetes
 x install k3s
 ```
 
+## 代码规模
+
+合计: **64,278** 行代码（覆盖前 5 种语言、共 **502** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 49,856 | 3,640 | 6,184 | 339 |
+| Yaml | 9,680 | 123 | 101 | 107 |
+| Sh | 3,080 | 479 | 534 | 29 |
+| Bash | 696 | 45 | 136 | 17 |
+| Hcl | 455 | 4 | 89 | 10 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **8 / 10**
+
+评分最低的几项:
+
+- **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/k3s-io/k3s>
@@ -21,8 +43,27 @@ x install k3s
 ## 发布
 
 - **最新版本**: `v1.37.0-rc4+k3s1` (2026-08-27)
-- **最近提交**: 2026-09-09
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 16 个
+
+## 流行度
+
+- **Star**: 33,933 · **Fork**: 2,721 · **开放 issue**: 7,723 · **贡献者**: 309
+
+## 累计统计
+
+- **发布数**: 1033 · **已合并 PR**: 4908 · **开放 PR**: 17 · **已关闭 issue**: 7651 · **开放 issue**: 72 · **提交数**: 4299
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 10 | 56 | 10 | 13 | 25 | 34 |
+| last60d | 2026-07-12 | 22 | 131 | 12 | 29 | 26 | 80 |
+| 90d | 2026-06-12 | 37 | 192 | 12 | 116 | 28 | 119 |
+| last180d | 2026-03-14 | 76 | 405 | 14 | 272 | 34 | 249 |
+| 360d | 2025-09-15 | 100 | 795 | 15 | 666 | 38 | 504 |
+| last720d | 2024-09-20 | 100 | 1452 | 15 | 1685 | 46 | 960 |
 
 ## Release 资产
 
@@ -45,43 +86,14 @@ x install k3s
 | [sha256sum-arm.txt](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/sha256sum-arm.txt) | 359 B | `other` |
 | [sha256sum-arm64.txt](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/sha256sum-arm64.txt) | 365 B | `other` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 33,930 · **Fork**: 2,721 · **开放 issue**: 7,722 · **贡献者**: 309
+在 [repology.org](https://repology.org/project/k3s) 上共有 **76** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**39** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 1033 · **已合并 PR**: 4906 · **开放 PR**: 14 · **已关闭 issue**: 7651 · **开放 issue**: 71 · **提交数**: 4298
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 10 | 54 | 7 | 13 | 24 | 33 |
-| 90d | 2026-06-12 | 37 | 190 | 9 | 116 | 27 | 118 |
-| 360d | 2025-09-15 | 100 | 793 | 12 | 666 | 37 | 503 |
-
-## 代码规模
-
-合计: **64,278** 行代码（覆盖前 5 种语言、共 **502** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 49,856 | 3,640 | 6,184 | 339 |
-| Yaml | 9,680 | 123 | 101 | 107 |
-| Sh | 3,080 | 479 | 534 | 29 |
-| Bash | 696 | 45 | 136 | 17 |
-| Hcl | 455 | 4 | 89 | 10 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **8 / 10**
-
-评分最低的几项:
-
-- **Vulnerabilities** (0/10) — 20 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `1.35.8+k3s1` | 🪦 legacy |
+| Alpine edge | `1.36.2.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -92,4 +104,4 @@ k3s 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T15:52:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:29:13Z._
