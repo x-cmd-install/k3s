@@ -1,0 +1,1036 @@
+- repo: slackbuilds
+  srcname: system/k3s
+  visiblename: system/k3s
+  version: 1.32.0.1
+  origversion: null
+  status: outdated
+  maintainers:
+    - pouria.rz@outlook.com
+  categories:
+    - system
+- repo: alpine_3_17
+  subrepo: community
+  srcname: k3s
+  binname: k3s
+  visiblename: k3s
+  version: 1.25.4.1
+  origversion: 1.25.4.1-r5
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: k3s
+  binname: k3s-openrc
+  visiblename: k3s-openrc
+  version: 1.25.4.1
+  origversion: 1.25.4.1-r5
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: k3s
+  binname: k3s-doc
+  visiblename: k3s-doc
+  version: 1.25.4.1
+  origversion: 1.25.4.1-r5
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: k3s
+  binname: k3s
+  visiblename: k3s
+  version: 1.27.5.1
+  origversion: 1.27.5.1-r2
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: k3s
+  binname: k3s-doc
+  visiblename: k3s-doc
+  version: 1.27.5.1
+  origversion: 1.27.5.1-r2
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: k3s
+  binname: k3s-openrc
+  visiblename: k3s-openrc
+  version: 1.27.5.1
+  origversion: 1.27.5.1-r2
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: k3s
+  binname: k3s
+  visiblename: k3s
+  version: 1.28.8.1
+  origversion: 1.28.8.1-r4
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: k3s
+  binname: k3s-doc
+  visiblename: k3s-doc
+  version: 1.28.8.1
+  origversion: 1.28.8.1-r4
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_19
+  subrepo: community
+  srcname: k3s
+  binname: k3s-openrc
+  visiblename: k3s-openrc
+  version: 1.28.8.1
+  origversion: 1.28.8.1-r4
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: k3s
+  binname: k3s
+  visiblename: k3s
+  version: 1.29.4.1
+  origversion: 1.29.4.1-r3
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: k3s
+  binname: k3s-doc
+  visiblename: k3s-doc
+  version: 1.29.4.1
+  origversion: 1.29.4.1-r3
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_20
+  subrepo: community
+  srcname: k3s
+  binname: k3s-openrc
+  visiblename: k3s-openrc
+  version: 1.29.4.1
+  origversion: 1.29.4.1-r3
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: k3s
+  binname: k3s
+  visiblename: k3s
+  version: 1.31.3.1
+  origversion: 1.31.3.1-r5
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: k3s
+  binname: k3s-doc
+  visiblename: k3s-doc
+  version: 1.31.3.1
+  origversion: 1.31.3.1-r5
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_21
+  subrepo: community
+  srcname: k3s
+  binname: k3s-openrc
+  visiblename: k3s-openrc
+  version: 1.31.3.1
+  origversion: 1.31.3.1-r5
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: k3s
+  binname: k3s
+  visiblename: k3s
+  version: 1.33.1.1
+  origversion: 1.33.1.1-r5
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: k3s
+  binname: k3s-doc
+  visiblename: k3s-doc
+  version: 1.33.1.1
+  origversion: 1.33.1.1-r5
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_22
+  subrepo: community
+  srcname: k3s
+  binname: k3s-openrc
+  visiblename: k3s-openrc
+  version: 1.33.1.1
+  origversion: 1.33.1.1-r5
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: k3s
+  binname: k3s
+  visiblename: k3s
+  version: 1.35.5.1
+  origversion: 1.35.5.1-r0
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: k3s
+  binname: k3s-doc
+  visiblename: k3s-doc
+  version: 1.35.5.1
+  origversion: 1.35.5.1-r0
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: k3s
+  binname: k3s-openrc
+  visiblename: k3s-openrc
+  version: 1.35.5.1
+  origversion: 1.35.5.1-r0
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_23
+  subrepo: community
+  srcname: k3s
+  binname: k3s-systemd
+  visiblename: k3s-systemd
+  version: 1.35.5.1
+  origversion: 1.35.5.1-r0
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (systemd files)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: k3s
+  binname: k3s
+  visiblename: k3s
+  version: 1.36.1.1
+  origversion: 1.36.1.1-r1
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: k3s
+  binname: k3s-doc
+  visiblename: k3s-doc
+  version: 1.36.1.1
+  origversion: 1.36.1.1-r1
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: k3s
+  binname: k3s-openrc
+  visiblename: k3s-openrc
+  version: 1.36.1.1
+  origversion: 1.36.1.1-r1
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_24
+  subrepo: community
+  srcname: k3s
+  binname: k3s-systemd
+  visiblename: k3s-systemd
+  version: 1.36.1.1
+  origversion: 1.36.1.1-r1
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (systemd files)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: k3s
+  binname: k3s
+  visiblename: k3s
+  version: 1.36.2.1
+  origversion: 1.36.2.1-r1
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: k3s
+  binname: k3s-doc
+  visiblename: k3s-doc
+  version: 1.36.2.1
+  origversion: 1.36.2.1-r1
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (documentation)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: k3s
+  binname: k3s-openrc
+  visiblename: k3s-openrc
+  version: 1.36.2.1
+  origversion: 1.36.2.1-r1
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (OpenRC init scripts)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_edge
+  subrepo: community
+  srcname: k3s
+  binname: k3s-systemd
+  visiblename: k3s-systemd
+  version: 1.36.2.1
+  origversion: 1.36.2.1-r1
+  status: outdated
+  summary: Lightweight Kubernetes. 5 less than k8s (systemd files)
+  maintainers:
+    - oleg.titov@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: archpower_powerpc64le
+  srcname: k3s
+  binname: k3s
+  visiblename: k3s
+  version: 1.28.3
+  origversion: 1.28.3+k3s2-1
+  status: outdated
+  summary: Lightweight Kubernetes
+  licenses:
+    - APACHE
+- repo: aur
+  srcname: k3s
+  binname: k3s
+  visiblename: k3s
+  version: 1.35.2
+  origversion: 1.35.2+k3s1-1
+  status: outdated
+  summary: Lightweight Kubernetes
+  maintainers:
+    - intelfx@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: k3s-1.19-bin
+  binname: k3s-1.19-bin
+  visiblename: k3s-1.19-bin
+  version: 1.19.16
+  origversion: 1.19.16+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.20-bin
+  binname: k3s-1.20-bin
+  visiblename: k3s-1.20-bin
+  version: 1.20.15
+  origversion: 1.20.15+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.21-bin
+  binname: k3s-1.21-bin
+  visiblename: k3s-1.21-bin
+  version: 1.21.14
+  origversion: 1.21.14+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.22-bin
+  binname: k3s-1.22-bin
+  visiblename: k3s-1.22-bin
+  version: 1.22.17
+  origversion: 1.22.17+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.23-bin
+  binname: k3s-1.23-bin
+  visiblename: k3s-1.23-bin
+  version: 1.23.17
+  origversion: 1.23.17+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.24-bin
+  binname: k3s-1.24-bin
+  visiblename: k3s-1.24-bin
+  version: 1.24.17
+  origversion: 1.24.17+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.25-bin
+  binname: k3s-1.25-bin
+  visiblename: k3s-1.25-bin
+  version: 1.25.16
+  origversion: 1.25.16+k3s3-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.26-bin
+  binname: k3s-1.26-bin
+  visiblename: k3s-1.26-bin
+  version: 1.26.14
+  origversion: 1.26.14+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.27-bin
+  binname: k3s-1.27-bin
+  visiblename: k3s-1.27-bin
+  version: 1.27.16
+  origversion: 1.27.16+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.28-bin
+  binname: k3s-1.28-bin
+  visiblename: k3s-1.28-bin
+  version: 1.28.15
+  origversion: 1.28.15+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.29-bin
+  binname: k3s-1.29-bin
+  visiblename: k3s-1.29-bin
+  version: 1.29.15
+  origversion: 1.29.15+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.30-bin
+  binname: k3s-1.30-bin
+  visiblename: k3s-1.30-bin
+  version: 1.30.14
+  origversion: 1.30.14+k3s2-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.31-bin
+  binname: k3s-1.31-bin
+  visiblename: k3s-1.31-bin
+  version: 1.31.14
+  origversion: 1.31.14+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.32-bin
+  binname: k3s-1.32-bin
+  visiblename: k3s-1.32-bin
+  version: 1.32.12
+  origversion: 1.32.12+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.33-bin
+  binname: k3s-1.33-bin
+  visiblename: k3s-1.33-bin
+  version: 1.33.11
+  origversion: 1.33.11+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-1.34-bin
+  binname: k3s-1.34-bin
+  visiblename: k3s-1.34-bin
+  version: 1.34.11
+  origversion: 1.34.11+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-bin
+  binname: k3s-bin
+  visiblename: k3s-bin
+  version: 1.36.4
+  origversion: 1.36.4+k3s1-1
+  status: outdated
+  summary: Lightweight Kubernetes
+  maintainers:
+    - fieldofclay@aur
+  licenses:
+    - Apache
+- repo: aur
+  srcname: k3s-git
+  binname: k3s-git
+  visiblename: k3s-git
+  version: 1.35.0
+  origversion: 1.35.0+k3s1+r144+g2f54f97ab4d-1
+  status: rolling
+  summary: Lightweight Kubernetes
+  maintainers:
+    - intelfx@aur
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: k3s
+  visiblename: k3s
+  version: 1.30.4+k3s1
+  origversion: null
+  status: legacy
+  summary: A lightweight Kubernetes distribution
+  maintainers:
+    - euank-nixpkg@euank.com
+    - joerg@thalheim.io
+    - winston@milli.ng
+    - yajo.sk8@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: k3s_1_28
+  visiblename: k3s
+  version: 1.28.13+k3s1
+  origversion: null
+  status: legacy
+  summary: A lightweight Kubernetes distribution
+  maintainers:
+    - euank-nixpkg@euank.com
+    - joerg@thalheim.io
+    - winston@milli.ng
+    - yajo.sk8@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: k3s_1_29
+  visiblename: k3s
+  version: 1.29.8+k3s1
+  origversion: null
+  status: legacy
+  summary: A lightweight Kubernetes distribution
+  maintainers:
+    - euank-nixpkg@euank.com
+    - joerg@thalheim.io
+    - winston@milli.ng
+    - yajo.sk8@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_05
+  srcname: k3s_1_31
+  visiblename: k3s
+  version: 1.31.0+k3s1
+  origversion: null
+  status: outdated
+  summary: A lightweight Kubernetes distribution
+  maintainers:
+    - euank-nixpkg@euank.com
+    - joerg@thalheim.io
+    - winston@milli.ng
+    - yajo.sk8@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: k3s
+  visiblename: k3s
+  version: 1.31.8+k3s1
+  origversion: null
+  status: outdated
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - euank-nixpkg@euank.com
+    - dev@ntr.li
+    - marcus@means.no
+    - joerg@thalheim.io
+    - robert.rose@mailbox.org
+    - winston@milli.ng
+    - yajo.sk8@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: k3s_1_28
+  visiblename: k3s
+  version: 1.28.14+k3s1
+  origversion: null
+  status: legacy
+  maintainers:
+    - fallback-mnt-nix@repology
+- repo: nix_stable_24_11
+  srcname: k3s_1_29
+  visiblename: k3s
+  version: 1.29.15+k3s1
+  origversion: null
+  status: legacy
+  maintainers:
+    - fallback-mnt-nix@repology
+- repo: nix_stable_24_11
+  srcname: k3s_1_30
+  visiblename: k3s
+  version: 1.30.12+k3s1
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - euank-nixpkg@euank.com
+    - dev@ntr.li
+    - marcus@means.no
+    - joerg@thalheim.io
+    - robert.rose@mailbox.org
+    - winston@milli.ng
+    - yajo.sk8@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: k3s
+  visiblename: k3s
+  version: 1.32.7+k3s1
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: k3s_1_30
+  visiblename: k3s
+  version: 1.30.14+k3s2
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: k3s_1_31
+  visiblename: k3s
+  version: 1.31.11+k3s1
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: k3s_1_33
+  visiblename: k3s
+  version: 1.33.3+k3s1
+  origversion: null
+  status: outdated
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: k3s
+  visiblename: k3s
+  version: 1.34.5+k3s1
+  origversion: null
+  status: outdated
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - me@maevi.net
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: k3s_1_31
+  visiblename: k3s
+  version: 1.31.14+k3s1
+  origversion: null
+  status: legacy
+  maintainers:
+    - fallback-mnt-nix@repology
+- repo: nix_stable_25_11
+  srcname: k3s_1_32
+  visiblename: k3s
+  version: 1.32.13+k3s1
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - me@maevi.net
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: k3s_1_33
+  visiblename: k3s
+  version: 1.33.9+k3s1
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - me@maevi.net
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: k3s
+  visiblename: k3s
+  version: 1.35.7+k3s1
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - me@maevi.net
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: k3s_1_35
+  visiblename: k3s
+  version: 1.35.7+k3s1
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - me@maevi.net
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: k3s_1_33
+  visiblename: k3s
+  version: 1.33.13+k3s2
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - me@maevi.net
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: k3s_1_34
+  visiblename: k3s
+  version: 1.34.10+k3s1
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - me@maevi.net
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: k3s_1_36
+  visiblename: k3s
+  version: 1.36.3+k3s1
+  origversion: null
+  status: outdated
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - me@maevi.net
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: k3s
+  visiblename: k3s
+  version: 1.35.8+k3s1
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - me@maevi.net
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: k3s_1_35
+  visiblename: k3s
+  version: 1.35.8+k3s1
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - me@maevi.net
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: k3s_1_34
+  visiblename: k3s
+  version: 1.34.11+k3s1
+  origversion: null
+  status: legacy
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - me@maevi.net
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: k3s_1_36
+  visiblename: k3s
+  version: 1.36.4+k3s1
+  origversion: null
+  status: newest
+  summary: Lightweight Kubernetes distribution
+  maintainers:
+    - joerg@thalheim.io
+    - euank-nixpkg@euank.com
+    - marcus@means.no
+    - winston@milli.ng
+    - dev@ntr.li
+    - nixpkgs@heywoodlh.io
+    - me@maevi.net
+    - robert.rose@mailbox.org
+  licenses:
+    - Apache-2.0
