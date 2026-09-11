@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 78991522,
       "digest": "sha256:835873f37245fc615f547a2fe2af9402a347875f13fa64a1f136de644955ea3f",
-      "download_count": 128219,
+      "download_count": 129272,
       "created_at": "2026-08-27T15:53:41Z",
       "updated_at": "2026-08-27T15:53:44Z",
       "browser_download_url": "https://github.com/k3s-io/k3s/releases/download/v1.36.4%2Bk3s1/k3s"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 194734080,
       "digest": "sha256:f94b5be3d3403ee6aa9b374d0eb9c91abce4347b7fe6422c317f93ada6da08a0",
-      "download_count": 421,
+      "download_count": 437,
       "created_at": "2026-08-27T15:53:41Z",
       "updated_at": "2026-08-27T15:53:49Z",
       "browser_download_url": "https://github.com/k3s-io/k3s/releases/download/v1.36.4%2Bk3s1/k3s-airgap-images-amd64.tar"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 193296259,
       "digest": "sha256:a5a6c970a992ce6ed5801b5fd090aa7edde354a786eb0e7d75b162d0b22901dd",
-      "download_count": 507,
+      "download_count": 516,
       "created_at": "2026-08-27T15:53:41Z",
       "updated_at": "2026-08-27T15:53:48Z",
       "browser_download_url": "https://github.com/k3s-io/k3s/releases/download/v1.36.4%2Bk3s1/k3s-airgap-images-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 193436957,
       "digest": "sha256:9024613e2d468c51ba0e5ba21898604c41339354449fb3338cc6a7931189eb6a",
-      "download_count": 9151,
+      "download_count": 9216,
       "created_at": "2026-08-27T15:53:41Z",
       "updated_at": "2026-08-27T15:53:47Z",
       "browser_download_url": "https://github.com/k3s-io/k3s/releases/download/v1.36.4%2Bk3s1/k3s-airgap-images-amd64.tar.zst"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 176533504,
       "digest": "sha256:d84268705e70019d76f4ef1c27cbb9d0bf480486e1d216103ebc732cfbd35bbb",
-      "download_count": 80,
+      "download_count": 82,
       "created_at": "2026-08-27T15:53:48Z",
       "updated_at": "2026-08-27T15:53:54Z",
       "browser_download_url": "https://github.com/k3s-io/k3s/releases/download/v1.36.4%2Bk3s1/k3s-airgap-images-arm64.tar"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 174995164,
       "digest": "sha256:5b66fde4e29681c09980d64bc77544769210abf8dcbd19dc210427ed12e0e8f8",
-      "download_count": 133,
+      "download_count": 135,
       "created_at": "2026-08-27T15:53:49Z",
       "updated_at": "2026-08-27T15:53:55Z",
       "browser_download_url": "https://github.com/k3s-io/k3s/releases/download/v1.36.4%2Bk3s1/k3s-airgap-images-arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 175402374,
       "digest": "sha256:9d3c4c2197bcf857ca17633aa393bad683cc982ddd408620f93036a3cca953b5",
-      "download_count": 4293,
+      "download_count": 4325,
       "created_at": "2026-08-27T15:53:49Z",
       "updated_at": "2026-08-27T15:53:55Z",
       "browser_download_url": "https://github.com/k3s-io/k3s/releases/download/v1.36.4%2Bk3s1/k3s-airgap-images-arm64.tar.zst"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 71368866,
       "digest": "sha256:c920706346d5ad4e5cd3c7bf1bb09ce71ebe07fec829e513e40f1caf98aed8bb",
-      "download_count": 14891,
+      "download_count": 15036,
       "created_at": "2026-08-27T15:53:50Z",
       "updated_at": "2026-08-27T15:53:52Z",
       "browser_download_url": "https://github.com/k3s-io/k3s/releases/download/v1.36.4%2Bk3s1/k3s-arm64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 377,
       "digest": "sha256:ca65606259c2c207551676bccc8cee1206ac9524de33df6eb8f7001b9d1ad016",
-      "download_count": 1342,
+      "download_count": 1380,
       "created_at": "2026-08-27T15:53:53Z",
       "updated_at": "2026-08-27T15:53:53Z",
       "browser_download_url": "https://github.com/k3s-io/k3s/releases/download/v1.36.4%2Bk3s1/k3s-images.txt"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 359,
       "digest": "sha256:db1dbdc92f0cb5ccd361348a113f4dff82b1f9194175e5993efc37224a04ba4d",
-      "download_count": 143351,
+      "download_count": 144621,
       "created_at": "2026-08-27T15:53:53Z",
       "updated_at": "2026-08-27T15:53:54Z",
       "browser_download_url": "https://github.com/k3s-io/k3s/releases/download/v1.36.4%2Bk3s1/sha256sum-amd64.txt"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 359,
       "digest": "sha256:116a43f3e66cd8364d234d10353a686746fdd1567f58a4f40824940a3e573e32",
-      "download_count": 151,
+      "download_count": 154,
       "created_at": "2026-08-27T15:53:54Z",
       "updated_at": "2026-08-27T15:53:54Z",
       "browser_download_url": "https://github.com/k3s-io/k3s/releases/download/v1.36.4%2Bk3s1/sha256sum-arm.txt"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 365,
       "digest": "sha256:6ee9239eed8ec870f356a882758dc0a8ba06a97b3f3c0b5ba61231980e521058",
-      "download_count": 30217,
+      "download_count": 30506,
       "created_at": "2026-08-27T15:53:54Z",
       "updated_at": "2026-08-27T15:53:55Z",
       "browser_download_url": "https://github.com/k3s-io/k3s/releases/download/v1.36.4%2Bk3s1/sha256sum-arm64.txt"
