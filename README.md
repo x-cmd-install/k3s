@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,944 · **Forks**: 2,724 · **Open issues**: 7,723 · **Contributors**: 309
+- **Stars**: 33,952 · **Forks**: 2,725 · **Open issues**: 7,724 · **Contributors**: 309
 
 ## Totals (cumulative)
 
-- **Releases**: 1034 · **Merged PRs**: 4914 · **Open PRs**: 12 · **Closed issues**: 7654 · **Open issues**: 69 · **Commits**: 4302
+- **Releases**: 1034 · **Merged PRs**: 4914 · **Open PRs**: 13 · **Closed issues**: 7654 · **Open issues**: 70 · **Commits**: 4302
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 11 | 48 | 4 | 14 | 22 | 37 |
-| last60d | 2026-07-15 | 23 | 137 | 7 | 26 | 23 | 83 |
-| 90d | 2026-06-15 | 38 | 192 | 7 | 117 | 25 | 122 |
-| last180d | 2026-03-17 | 77 | 391 | 9 | 267 | 31 | 252 |
-| 360d | 2025-09-18 | 100 | 799 | 9 | 655 | 35 | 507 |
-| last720d | 2024-09-23 | 100 | 1456 | 10 | 1681 | 43 | 963 |
+| 30d | 2026-08-15 | 11 | 48 | 5 | 13 | 22 | 25 |
+| last60d | 2026-07-16 | 23 | 136 | 8 | 26 | 24 | 69 |
+| 90d | 2026-06-16 | 38 | 187 | 8 | 117 | 26 | 112 |
+| last180d | 2026-03-18 | 77 | 391 | 10 | 267 | 32 | 244 |
+| 360d | 2025-09-19 | 100 | 799 | 10 | 654 | 36 | 496 |
+| last720d | 2024-09-24 | 100 | 1451 | 11 | 1678 | 44 | 961 |
 
 ## Release assets
 
@@ -86,15 +86,6 @@ Lowest-scoring checks:
 | [sha256sum-arm.txt](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/sha256sum-arm.txt) | 359 B | `other` |
 | [sha256sum-arm64.txt](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/sha256sum-arm64.txt) | 365 B | `other` |
 
-## Distribution status
-
-Reported by **76** distros on [repology.org](https://repology.org/project/k3s). **1** are ✅ on the latest upstream release, **39** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `1.35.8+k3s1` | 🪦 legacy |
-| Alpine edge | `1.36.2.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `k3s` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -104,4 +95,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T03:05:50Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T03:19:50Z._
