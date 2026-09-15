@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.37.0-rc5+k3s1` (2026-08-27)
+- **Latest**: `v1.37.0+k3s1` (2026-08-27)
 - **Last commit**: 2026-09-11
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 33,952 · **Forks**: 2,725 · **Open issues**: 7,724 · **Contributors**: 309
+- **Stars**: 33,959 · **Forks**: 2,724 · **Open issues**: 7,725 · **Contributors**: 309
 
 ## Totals (cumulative)
 
-- **Releases**: 1034 · **Merged PRs**: 4914 · **Open PRs**: 13 · **Closed issues**: 7654 · **Open issues**: 70 · **Commits**: 4302
+- **Releases**: 1035 · **Merged PRs**: 4914 · **Open PRs**: 15 · **Closed issues**: 7656 · **Open issues**: 69 · **Commits**: 4302
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 11 | 48 | 5 | 13 | 22 | 25 |
-| last60d | 2026-07-16 | 23 | 136 | 8 | 26 | 24 | 69 |
-| 90d | 2026-06-16 | 38 | 187 | 8 | 117 | 26 | 112 |
-| last180d | 2026-03-18 | 77 | 391 | 10 | 267 | 32 | 244 |
-| 360d | 2025-09-19 | 100 | 799 | 10 | 654 | 36 | 496 |
-| last720d | 2024-09-24 | 100 | 1451 | 11 | 1678 | 44 | 961 |
+| 30d | 2026-08-16 | 12 | 48 | 6 | 15 | 21 | 25 |
+| last60d | 2026-07-17 | 24 | 128 | 10 | 28 | 23 | 69 |
+| 90d | 2026-06-17 | 35 | 186 | 10 | 118 | 25 | 112 |
+| last180d | 2026-03-19 | 78 | 386 | 12 | 269 | 31 | 244 |
+| 360d | 2025-09-20 | 100 | 799 | 12 | 656 | 35 | 496 |
+| last720d | 2024-09-25 | 100 | 1449 | 13 | 1674 | 43 | 958 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T03:19:50Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T03:21:17Z._
