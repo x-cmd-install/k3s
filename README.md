@@ -42,49 +42,49 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.37.0+k3s1` (2026-08-27)
-- **Last commit**: 2026-09-11
+- **Latest**: `v1.37.0+k3s1` (2026-09-14)
+- **Last commit**: 2026-09-15
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 33,959 · **Forks**: 2,724 · **Open issues**: 7,725 · **Contributors**: 309
+- **Stars**: 33,967 · **Forks**: 2,724 · **Open issues**: 7,725 · **Contributors**: 309
 
 ## Totals (cumulative)
 
-- **Releases**: 1035 · **Merged PRs**: 4914 · **Open PRs**: 15 · **Closed issues**: 7656 · **Open issues**: 69 · **Commits**: 4302
+- **Releases**: 1035 · **Merged PRs**: 4920 · **Open PRs**: 12 · **Closed issues**: 7656 · **Open issues**: 69 · **Commits**: 4304
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 12 | 48 | 6 | 15 | 21 | 25 |
-| last60d | 2026-07-17 | 24 | 128 | 10 | 28 | 23 | 69 |
-| 90d | 2026-06-17 | 35 | 186 | 10 | 118 | 25 | 112 |
-| last180d | 2026-03-19 | 78 | 386 | 12 | 269 | 31 | 244 |
-| 360d | 2025-09-20 | 100 | 799 | 12 | 656 | 35 | 496 |
-| last720d | 2024-09-25 | 100 | 1449 | 13 | 1674 | 43 | 958 |
+| 30d | 2026-08-17 | 12 | 52 | 4 | 15 | 21 | 0 |
+| last60d | 2026-07-18 | 24 | 128 | 7 | 28 | 23 | 0 |
+| 90d | 2026-06-18 | 35 | 190 | 7 | 117 | 25 | 0 |
+| last180d | 2026-03-20 | 75 | 392 | 9 | 263 | 31 | 0 |
+| 360d | 2025-09-21 | 100 | 805 | 9 | 656 | 35 | 0 |
+| last720d | 2024-09-26 | 100 | 1453 | 10 | 1672 | 43 | 957 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [k3s](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s) | 75.3 MiB | `other` |
-| [k3s-airgap-images-amd64.tar](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s-airgap-images-amd64.tar) | 185.7 MiB | `other` |
-| [k3s-airgap-images-amd64.tar.gz](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s-airgap-images-amd64.tar.gz) | 184.3 MiB | `native/linux/x64` |
-| [k3s-airgap-images-amd64.tar.zst](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s-airgap-images-amd64.tar.zst) | 184.5 MiB | `other` |
-| [k3s-airgap-images-arm.tar](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s-airgap-images-arm.tar) | 175.9 MiB | `other` |
-| [k3s-airgap-images-arm.tar.gz](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s-airgap-images-arm.tar.gz) | 174.8 MiB | `native/linux/arm` |
-| [k3s-airgap-images-arm.tar.zst](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s-airgap-images-arm.tar.zst) | 174.8 MiB | `other` |
-| [k3s-airgap-images-arm64.tar](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s-airgap-images-arm64.tar) | 168.4 MiB | `other` |
-| [k3s-airgap-images-arm64.tar.gz](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s-airgap-images-arm64.tar.gz) | 166.9 MiB | `native/linux/arm64` |
-| [k3s-airgap-images-arm64.tar.zst](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s-airgap-images-arm64.tar.zst) | 167.3 MiB | `other` |
-| [k3s-arm64](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s-arm64) | 68.1 MiB | `other` |
-| [k3s-armhf](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s-armhf) | 68.9 MiB | `other` |
-| [k3s-images.txt](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/k3s-images.txt) | 377 B | `other` |
-| [sha256sum-amd64.txt](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/sha256sum-amd64.txt) | 359 B | `other` |
-| [sha256sum-arm.txt](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/sha256sum-arm.txt) | 359 B | `other` |
-| [sha256sum-arm64.txt](https://github.com/k3s-io/k3s/releases/download/v1.36.4+k3s1/sha256sum-arm64.txt) | 365 B | `other` |
+| [k3s](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s) | 77.7 MiB | `other` |
+| [k3s-airgap-images-amd64.tar](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s-airgap-images-amd64.tar) | 186.9 MiB | `other` |
+| [k3s-airgap-images-amd64.tar.gz](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s-airgap-images-amd64.tar.gz) | 185.5 MiB | `native/linux/x64` |
+| [k3s-airgap-images-amd64.tar.zst](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s-airgap-images-amd64.tar.zst) | 185.4 MiB | `other` |
+| [k3s-airgap-images-arm.tar](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s-airgap-images-arm.tar) | 177.0 MiB | `other` |
+| [k3s-airgap-images-arm.tar.gz](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s-airgap-images-arm.tar.gz) | 176.0 MiB | `native/linux/arm` |
+| [k3s-airgap-images-arm.tar.zst](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s-airgap-images-arm.tar.zst) | 176.0 MiB | `other` |
+| [k3s-airgap-images-arm64.tar](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s-airgap-images-arm64.tar) | 169.4 MiB | `other` |
+| [k3s-airgap-images-arm64.tar.gz](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s-airgap-images-arm64.tar.gz) | 168.0 MiB | `native/linux/arm64` |
+| [k3s-airgap-images-arm64.tar.zst](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s-airgap-images-arm64.tar.zst) | 168.3 MiB | `other` |
+| [k3s-arm64](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s-arm64) | 70.3 MiB | `other` |
+| [k3s-armhf](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s-armhf) | 71.3 MiB | `other` |
+| [k3s-images.txt](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/k3s-images.txt) | 378 B | `other` |
+| [sha256sum-amd64.txt](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/sha256sum-amd64.txt) | 359 B | `other` |
+| [sha256sum-arm.txt](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/sha256sum-arm.txt) | 359 B | `other` |
+| [sha256sum-arm64.txt](https://github.com/k3s-io/k3s/releases/download/v1.37.0+k3s1/sha256sum-arm64.txt) | 365 B | `other` |
 
 ## Improve this data
 
@@ -95,4 +95,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T03:21:17Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T03:18:15Z._
