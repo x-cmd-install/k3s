@@ -4,7 +4,7 @@
 
 Lightweight Kubernetes
 
-![k3s](https://repo.x-cmd.io/k3s.svg)
+[![x-cmd/install — k3s Code Quality Monitoring Repo Card](https://repo.x-cmd.io/k3s.svg)](https://x-cmd.com/install/k3s)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install k3s
 
 ## Code insight
 
-Total: **64,281** lines of code across **502** files in the top 5 languages.
+Total: **64,364** lines of code across **503** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 49,856 | 3,640 | 6,184 | 339 |
+| Go | 49,939 | 3,653 | 6,200 | 340 |
 | Yaml | 9,683 | 123 | 101 | 107 |
 | Sh | 3,080 | 479 | 534 | 29 |
 | Bash | 696 | 45 | 136 | 17 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.37.0+k3s1` (2026-09-14)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-18
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 33,980 · **Forks**: 2,726 · **Open issues**: 7,724 · **Contributors**: 309
+- **Stars**: 33,999 · **Forks**: 2,727 · **Open issues**: 7,761 · **Contributors**: 310
 
 ## Totals (cumulative)
 
-- **Releases**: 1035 · **Merged PRs**: 4920 · **Open PRs**: 12 · **Closed issues**: 7655 · **Open issues**: 69 · **Commits**: 4304
+- **Releases**: 1035 · **Merged PRs**: 4922 · **Open PRs**: 14 · **Closed issues**: 7661 · **Open issues**: 100 · **Commits**: 4311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 12 | 51 | 4 | 14 | 21 | 27 |
-| last60d | 2026-07-20 | 24 | 113 | 7 | 26 | 23 | 71 |
-| 90d | 2026-06-20 | 35 | 186 | 7 | 109 | 25 | 114 |
-| last180d | 2026-03-22 | 75 | 391 | 9 | 263 | 31 | 246 |
-| 360d | 2025-09-23 | 100 | 804 | 9 | 654 | 35 | 498 |
-| last720d | 2024-09-28 | 100 | 1452 | 10 | 1671 | 43 | 957 |
+| 30d | 2026-08-21 | 12 | 43 | 7 | 20 | 52 | 33 |
+| last60d | 2026-07-22 | 24 | 105 | 9 | 31 | 54 | 78 |
+| 90d | 2026-06-22 | 35 | 188 | 9 | 114 | 56 | 121 |
+| last180d | 2026-03-24 | 75 | 387 | 10 | 268 | 62 | 253 |
+| 360d | 2025-09-25 | 100 | 800 | 11 | 642 | 66 | 505 |
+| last720d | 2024-09-30 | 100 | 1454 | 12 | 1671 | 74 | 964 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:09:52Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:20:51Z._
