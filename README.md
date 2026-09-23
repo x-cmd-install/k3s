@@ -4,7 +4,7 @@
 
 Lightweight Kubernetes
 
-[![x-cmd/install — k3s Code Quality Monitoring Repo Card](https://repo.x-cmd.io/k3s.svg)](https://x-cmd.com/install/k3s)
+[![x-cmd/install — k3s Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/k3s.svg)](https://x-cmd.com/install/k3s)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 34,015 · **Forks**: 2,728 · **Open issues**: 7,763 · **Contributors**: 310
+- **Stars**: 34,021 · **Forks**: 2,727 · **Open issues**: 7,763 · **Contributors**: 310
 
 ## Totals (cumulative)
 
-- **Releases**: 1035 · **Merged PRs**: 4925 · **Open PRs**: 12 · **Closed issues**: 7663 · **Open issues**: 100 · **Commits**: 4311
+- **Releases**: 1035 · **Merged PRs**: 4925 · **Open PRs**: 17 · **Closed issues**: 7663 · **Open issues**: 100 · **Commits**: 4311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 9 | 45 | 5 | 21 | 53 | 29 |
-| last60d | 2026-07-24 | 24 | 97 | 7 | 31 | 55 | 68 |
-| 90d | 2026-06-24 | 31 | 185 | 7 | 109 | 57 | 110 |
-| last180d | 2026-03-26 | 75 | 387 | 8 | 268 | 62 | 240 |
-| 360d | 2025-09-27 | 100 | 802 | 9 | 642 | 66 | 496 |
-| last720d | 2024-10-02 | 100 | 1447 | 10 | 1672 | 74 | 960 |
+| 30d | 2026-08-24 | 9 | 44 | 10 | 21 | 53 | 29 |
+| last60d | 2026-07-25 | 20 | 97 | 12 | 31 | 55 | 68 |
+| 90d | 2026-06-25 | 24 | 184 | 12 | 109 | 57 | 110 |
+| last180d | 2026-03-27 | 75 | 382 | 13 | 263 | 62 | 240 |
+| 360d | 2025-09-28 | 100 | 801 | 14 | 642 | 66 | 496 |
+| last720d | 2024-10-03 | 100 | 1447 | 15 | 1663 | 74 | 956 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:16:20Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:16:12Z._
