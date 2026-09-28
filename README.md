@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 34,040 · **Forks**: 2,731 · **Open issues**: 7,766 · **Contributors**: 310
+- **Stars**: 34,049 · **Forks**: 2,732 · **Open issues**: 7,766 · **Contributors**: 310
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 14 | 65 | 8 | 37 | 37 | 38 |
-| last60d | 2026-07-29 | 24 | 108 | 11 | 47 | 40 | 78 |
-| 90d | 2026-06-29 | 32 | 200 | 11 | 106 | 41 | 120 |
-| last180d | 2026-03-31 | 77 | 390 | 12 | 282 | 45 | 250 |
-| 360d | 2025-10-02 | 100 | 817 | 13 | 629 | 49 | 506 |
-| last720d | 2024-10-07 | 100 | 1465 | 14 | 1673 | 57 | 964 |
+| 30d | 2026-08-29 | 14 | 65 | 8 | 37 | 37 | 24 |
+| last60d | 2026-07-30 | 24 | 108 | 11 | 46 | 40 | 68 |
+| 90d | 2026-06-30 | 32 | 200 | 11 | 105 | 41 | 111 |
+| last180d | 2026-04-01 | 77 | 390 | 12 | 282 | 45 | 241 |
+| 360d | 2025-10-03 | 100 | 817 | 13 | 629 | 49 | 503 |
+| last720d | 2024-10-08 | 100 | 1464 | 14 | 1667 | 57 | 961 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T03:36:24Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T03:34:34Z._
