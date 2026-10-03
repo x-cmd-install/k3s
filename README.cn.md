@@ -31,8 +31,8 @@ x install k3s
 评分最低的几项:
 
 - **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install k3s
 ## 发布
 
 - **最新版本**: `v1.34.12+k3s1` (2026-09-30)
-- **最近提交**: 2026-10-01
+- **最近提交**: 2026-10-02
 - **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 34,103 · **Fork**: 2,746 · **开放 issue**: 7,773 · **贡献者**: 311
+- **Star**: 34,110 · **Fork**: 2,748 · **开放 issue**: 7,774 · **贡献者**: 312
 
 ## 累计统计
 
-- **发布数**: 1047 · **已合并 PR**: 4957 · **开放 PR**: 15 · **已关闭 issue**: 7714 · **开放 issue**: 59 · **提交数**: 4330
+- **发布数**: 1047 · **已合并 PR**: 4959 · **开放 PR**: 17 · **已关闭 issue**: 7716 · **开放 issue**: 58 · **提交数**: 4331
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 18 | 63 | 8 | 59 | 10 | 33 |
-| last60d | 2026-08-03 | 28 | 115 | 9 | 76 | 17 | 77 |
-| 90d | 2026-07-04 | 36 | 208 | 10 | 128 | 18 | 120 |
-| last180d | 2026-04-05 | 81 | 398 | 11 | 311 | 20 | 250 |
-| 360d | 2025-10-07 | 100 | 819 | 12 | 656 | 25 | 512 |
-| last720d | 2024-10-12 | 100 | 1439 | 13 | 1656 | 33 | 959 |
+| 30d | 2026-09-03 | 16 | 61 | 10 | 58 | 9 | 34 |
+| last60d | 2026-08-04 | 28 | 113 | 11 | 77 | 16 | 78 |
+| 90d | 2026-07-05 | 36 | 210 | 12 | 130 | 17 | 121 |
+| last180d | 2026-04-06 | 81 | 400 | 13 | 313 | 19 | 251 |
+| 360d | 2025-10-08 | 100 | 815 | 14 | 642 | 24 | 513 |
+| last720d | 2024-10-13 | 100 | 1440 | 15 | 1658 | 32 | 960 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ k3s 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T04:02:30Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T03:45:56Z._

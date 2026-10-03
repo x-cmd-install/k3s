@@ -31,8 +31,8 @@ Overall score: **8 / 10**
 Lowest-scoring checks:
 
 - **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.34.12+k3s1` (2026-09-30)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-02
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 34,103 · **Forks**: 2,746 · **Open issues**: 7,773 · **Contributors**: 311
+- **Stars**: 34,110 · **Forks**: 2,748 · **Open issues**: 7,774 · **Contributors**: 312
 
 ## Totals (cumulative)
 
-- **Releases**: 1047 · **Merged PRs**: 4957 · **Open PRs**: 15 · **Closed issues**: 7714 · **Open issues**: 59 · **Commits**: 4330
+- **Releases**: 1047 · **Merged PRs**: 4959 · **Open PRs**: 17 · **Closed issues**: 7716 · **Open issues**: 58 · **Commits**: 4331
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 18 | 63 | 8 | 59 | 10 | 33 |
-| last60d | 2026-08-03 | 28 | 115 | 9 | 76 | 17 | 77 |
-| 90d | 2026-07-04 | 36 | 208 | 10 | 128 | 18 | 120 |
-| last180d | 2026-04-05 | 81 | 398 | 11 | 311 | 20 | 250 |
-| 360d | 2025-10-07 | 100 | 819 | 12 | 656 | 25 | 512 |
-| last720d | 2024-10-12 | 100 | 1439 | 13 | 1656 | 33 | 959 |
+| 30d | 2026-09-03 | 16 | 61 | 10 | 58 | 9 | 34 |
+| last60d | 2026-08-04 | 28 | 113 | 11 | 77 | 16 | 78 |
+| 90d | 2026-07-05 | 36 | 210 | 12 | 130 | 17 | 121 |
+| last180d | 2026-04-06 | 81 | 400 | 13 | 313 | 19 | 251 |
+| 360d | 2025-10-08 | 100 | 815 | 14 | 642 | 24 | 513 |
+| last720d | 2024-10-13 | 100 | 1440 | 15 | 1658 | 32 | 960 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T04:02:30Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T03:45:55Z._
