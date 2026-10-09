@@ -30,7 +30,7 @@ x install k3s
 
 评分最低的几项:
 
-- **Vulnerabilities** (0/10) — 17 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 18 existing vulnerabilities detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
@@ -43,27 +43,27 @@ x install k3s
 ## 发布
 
 - **最新版本**: `v1.34.12+k3s1` (2026-09-30)
-- **最近提交**: 2026-10-07
+- **最近提交**: 2026-10-08
 - **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 34,149 · **Fork**: 2,753 · **开放 issue**: 7,781 · **贡献者**: 314
+- **Star**: 34,154 · **Fork**: 2,756 · **开放 issue**: 7,790 · **贡献者**: 314
 
 ## 累计统计
 
-- **发布数**: 1047 · **已合并 PR**: 4976 · **开放 PR**: 13 · **已关闭 issue**: 7721 · **开放 issue**: 60 · **提交数**: 4337
+- **发布数**: 1047 · **已合并 PR**: 4978 · **开放 PR**: 20 · **已关闭 issue**: 7722 · **开放 issue**: 68 · **提交数**: 4338
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 15 | 73 | 6 | 53 | 13 | 30 |
-| last60d | 2026-08-09 | 24 | 125 | 7 | 77 | 20 | 77 |
-| 90d | 2026-07-10 | 36 | 200 | 8 | 95 | 21 | 119 |
-| last180d | 2026-04-11 | 81 | 410 | 9 | 311 | 23 | 247 |
-| 360d | 2025-10-13 | 100 | 827 | 10 | 642 | 28 | 516 |
-| last720d | 2024-10-18 | 100 | 1448 | 11 | 1655 | 36 | 960 |
+| 30d | 2026-09-09 | 15 | 68 | 12 | 50 | 21 | 31 |
+| last60d | 2026-08-10 | 24 | 127 | 14 | 78 | 28 | 78 |
+| 90d | 2026-07-11 | 36 | 202 | 15 | 96 | 28 | 120 |
+| last180d | 2026-04-12 | 81 | 412 | 16 | 312 | 31 | 248 |
+| 360d | 2025-10-14 | 100 | 828 | 17 | 643 | 36 | 517 |
+| last720d | 2024-10-19 | 100 | 1446 | 18 | 1655 | 44 | 961 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ k3s 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261008.yml` · 2026-10-08T04:27:32Z._
+_数据快照: `data/card/261009.yml` · 2026-10-09T04:31:11Z._
