@@ -14,12 +14,12 @@ x install k3s
 
 ## Code insight
 
-Total: **65,772** lines of code across **507** files in the top 5 languages.
+Total: **65,769** lines of code across **507** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 51,285 | 3,769 | 6,338 | 343 |
-| Yaml | 9,743 | 122 | 103 | 109 |
+| Go | 51,279 | 3,772 | 6,335 | 343 |
+| Yaml | 9,746 | 122 | 103 | 109 |
 | Sh | 3,062 | 475 | 532 | 28 |
 | Bash | 696 | 45 | 136 | 17 |
 | Hcl | 455 | 4 | 89 | 10 |
@@ -30,7 +30,7 @@ Overall score: **8 / 10**
 
 Lowest-scoring checks:
 
-- **Vulnerabilities** (0/10) — 22 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 23 existing vulnerabilities detected
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.34.12+k3s1` (2026-09-30)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-16
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 34,193 · **Forks**: 2,759 · **Open issues**: 7,803 · **Contributors**: 317
+- **Stars**: 34,200 · **Forks**: 2,759 · **Open issues**: 7,804 · **Contributors**: 317
 
 ## Totals (cumulative)
 
-- **Releases**: 1047 · **Merged PRs**: 5001 · **Open PRs**: 16 · **Closed issues**: 7727 · **Open issues**: 76 · **Commits**: 4349
+- **Releases**: 1047 · **Merged PRs**: 5020 · **Open PRs**: 14 · **Closed issues**: 7742 · **Open issues**: 62 · **Commits**: 4358
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 12 | 77 | 9 | 50 | 27 | 34 |
-| last60d | 2026-08-16 | 24 | 134 | 9 | 78 | 36 | 72 |
-| 90d | 2026-07-17 | 36 | 215 | 11 | 93 | 36 | 123 |
-| last180d | 2026-04-18 | 75 | 405 | 12 | 288 | 39 | 251 |
-| 360d | 2025-10-20 | 100 | 843 | 13 | 640 | 44 | 513 |
-| last720d | 2024-10-25 | 100 | 1460 | 14 | 1641 | 52 | 968 |
+| 30d | 2026-09-16 | 12 | 95 | 7 | 63 | 15 | 42 |
+| last60d | 2026-08-17 | 24 | 151 | 7 | 93 | 22 | 80 |
+| 90d | 2026-07-18 | 36 | 228 | 9 | 108 | 22 | 132 |
+| last180d | 2026-04-19 | 75 | 423 | 10 | 303 | 25 | 260 |
+| 360d | 2025-10-21 | 100 | 862 | 11 | 652 | 30 | 522 |
+| last720d | 2024-10-26 | 100 | 1479 | 12 | 1655 | 38 | 977 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T03:08:58Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T03:05:21Z._
