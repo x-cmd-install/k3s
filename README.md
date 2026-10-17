@@ -14,12 +14,12 @@ x install k3s
 
 ## Code insight
 
-Total: **65,769** lines of code across **507** files in the top 5 languages.
+Total: **65,841** lines of code across **508** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 51,279 | 3,772 | 6,335 | 343 |
-| Yaml | 9,746 | 122 | 103 | 109 |
+| Yaml | 9,818 | 126 | 109 | 110 |
 | Sh | 3,062 | 475 | 532 | 28 |
 | Bash | 696 | 45 | 136 | 17 |
 | Hcl | 455 | 4 | 89 | 10 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 34,200 · **Forks**: 2,759 · **Open issues**: 7,804 · **Contributors**: 317
+- **Stars**: 34,204 · **Forks**: 2,760 · **Open issues**: 7,803 · **Contributors**: 317
 
 ## Totals (cumulative)
 
-- **Releases**: 1047 · **Merged PRs**: 5020 · **Open PRs**: 14 · **Closed issues**: 7742 · **Open issues**: 62 · **Commits**: 4358
+- **Releases**: 1047 · **Merged PRs**: 5030 · **Open PRs**: 13 · **Closed issues**: 7741 · **Open issues**: 62 · **Commits**: 4361
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 12 | 95 | 7 | 63 | 15 | 42 |
-| last60d | 2026-08-17 | 24 | 151 | 7 | 93 | 22 | 80 |
-| 90d | 2026-07-18 | 36 | 228 | 9 | 108 | 22 | 132 |
-| last180d | 2026-04-19 | 75 | 423 | 10 | 303 | 25 | 260 |
-| 360d | 2025-10-21 | 100 | 862 | 11 | 652 | 30 | 522 |
-| last720d | 2024-10-26 | 100 | 1479 | 12 | 1655 | 38 | 977 |
+| 30d | 2026-09-17 | 12 | 105 | 6 | 63 | 15 | 0 |
+| last60d | 2026-08-18 | 24 | 160 | 6 | 92 | 22 | 0 |
+| 90d | 2026-07-19 | 36 | 238 | 8 | 108 | 22 | 0 |
+| last180d | 2026-04-20 | 75 | 428 | 9 | 302 | 25 | 0 |
+| 360d | 2025-10-22 | 100 | 866 | 10 | 652 | 30 | 0 |
+| last720d | 2024-10-27 | 100 | 1489 | 11 | 1651 | 38 | 980 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T03:05:21Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T02:57:22Z._
