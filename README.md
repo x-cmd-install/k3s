@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.34.12+k3s1` (2026-09-30)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 34,235 · **Forks**: 2,770 · **Open issues**: 7,836 · **Contributors**: 318
+- **Stars**: 34,238 · **Forks**: 2,772 · **Open issues**: 7,836 · **Contributors**: 318
 
 ## Totals (cumulative)
 
-- **Releases**: 1047 · **Merged PRs**: 5034 · **Open PRs**: 9 · **Closed issues**: 7741 · **Open issues**: 95 · **Commits**: 4366
+- **Releases**: 1047 · **Merged PRs**: 5039 · **Open PRs**: 9 · **Closed issues**: 7764 · **Open issues**: 72 · **Commits**: 4368
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 12 | 104 | 2 | 24 | 48 | 38 |
-| last60d | 2026-08-22 | 21 | 155 | 2 | 92 | 55 | 82 |
-| 90d | 2026-07-23 | 36 | 206 | 4 | 104 | 55 | 123 |
-| last180d | 2026-04-24 | 71 | 419 | 5 | 297 | 58 | 252 |
-| 360d | 2025-10-26 | 100 | 869 | 6 | 650 | 63 | 524 |
-| last720d | 2024-10-31 | 100 | 1489 | 7 | 1639 | 71 | 981 |
+| 30d | 2026-09-22 | 12 | 104 | 2 | 45 | 27 | 40 |
+| last60d | 2026-08-23 | 21 | 159 | 2 | 114 | 33 | 84 |
+| 90d | 2026-07-24 | 36 | 211 | 4 | 126 | 33 | 125 |
+| last180d | 2026-04-25 | 71 | 424 | 5 | 319 | 36 | 254 |
+| 360d | 2025-10-27 | 100 | 871 | 6 | 672 | 41 | 526 |
+| last720d | 2024-11-01 | 100 | 1494 | 7 | 1658 | 49 | 981 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T03:17:04Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T03:15:14Z._
