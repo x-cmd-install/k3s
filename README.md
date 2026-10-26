@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 34,247 · **Forks**: 2,767 · **Open issues**: 7,838 · **Contributors**: 318
+- **Stars**: 34,254 · **Forks**: 2,767 · **Open issues**: 7,839 · **Contributors**: 318
 
 ## Totals (cumulative)
 
-- **Releases**: 1047 · **Merged PRs**: 5039 · **Open PRs**: 28 · **Closed issues**: 7774 · **Open issues**: 64 · **Commits**: 4368
+- **Releases**: 1047 · **Merged PRs**: 5039 · **Open PRs**: 28 · **Closed issues**: 7775 · **Open issues**: 64 · **Commits**: 4368
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 4 | 84 | 21 | 53 | 19 | 40 |
-| last60d | 2026-08-26 | 21 | 156 | 21 | 123 | 25 | 84 |
-| 90d | 2026-07-27 | 32 | 205 | 23 | 135 | 26 | 125 |
-| last180d | 2026-04-28 | 61 | 413 | 24 | 328 | 29 | 254 |
-| 360d | 2025-10-30 | 100 | 855 | 25 | 667 | 33 | 526 |
-| last720d | 2024-11-04 | 100 | 1492 | 26 | 1652 | 41 | 981 |
+| 30d | 2026-09-26 | 4 | 83 | 21 | 52 | 20 | 34 |
+| last60d | 2026-08-27 | 21 | 155 | 21 | 123 | 26 | 75 |
+| 90d | 2026-07-28 | 32 | 200 | 23 | 135 | 26 | 119 |
+| last180d | 2026-04-29 | 61 | 413 | 24 | 328 | 28 | 249 |
+| 360d | 2025-10-31 | 100 | 854 | 25 | 668 | 33 | 521 |
+| last720d | 2024-11-05 | 100 | 1485 | 26 | 1649 | 41 | 980 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T03:09:16Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T03:09:25Z._
