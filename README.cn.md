@@ -31,8 +31,8 @@ x install k3s
 评分最低的几项:
 
 - **Vulnerabilities** (0/10) — 18 existing vulnerabilities detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 源代码
 
@@ -42,28 +42,28 @@ x install k3s
 
 ## 发布
 
-- **最新版本**: `v1.34.13-rc2+k3s1` (2026-09-30)
-- **最近提交**: 2026-10-30
+- **最新版本**: `v1.34.13+k3s1` (2026-09-30)
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 34,321 · **Fork**: 2,772 · **开放 issue**: 7,844 · **贡献者**: 321
+- **Star**: 34,330 · **Fork**: 2,772 · **开放 issue**: 7,845 · **贡献者**: 322
 
 ## 累计统计
 
-- **发布数**: 1055 · **已合并 PR**: 5067 · **开放 PR**: 31 · **已关闭 issue**: 7782 · **开放 issue**: 62 · **提交数**: 4387
+- **发布数**: 1059 · **已合并 PR**: 5068 · **开放 PR**: 30 · **已关闭 issue**: 7784 · **开放 issue**: 61 · **提交数**: 4388
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 8 | 98 | 24 | 51 | 18 | 44 |
-| last60d | 2026-09-04 | 23 | 167 | 24 | 111 | 22 | 81 |
-| 90d | 2026-08-05 | 32 | 217 | 25 | 139 | 24 | 126 |
-| last180d | 2026-05-07 | 67 | 432 | 27 | 329 | 25 | 265 |
-| 360d | 2025-11-08 | 100 | 863 | 28 | 654 | 31 | 532 |
-| last720d | 2024-11-13 | 100 | 1489 | 29 | 1612 | 39 | 985 |
+| 30d | 2026-10-05 | 12 | 99 | 23 | 53 | 16 | 45 |
+| last60d | 2026-09-05 | 27 | 168 | 23 | 112 | 21 | 82 |
+| 90d | 2026-08-06 | 36 | 218 | 24 | 139 | 23 | 127 |
+| last180d | 2026-05-08 | 71 | 433 | 26 | 331 | 24 | 266 |
+| 360d | 2025-11-09 | 100 | 864 | 27 | 653 | 30 | 533 |
+| last720d | 2024-11-14 | 100 | 1485 | 28 | 1609 | 38 | 984 |
 
 ## Release 资产
 
@@ -104,4 +104,4 @@ k3s 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T05:18:23Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T04:48:59Z._
