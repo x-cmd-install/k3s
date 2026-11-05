@@ -14,11 +14,11 @@ x install k3s
 
 ## 代码洞察
 
-合计: **65,997** 行代码（覆盖前 5 种语言、共 **509** 个文件）。
+合计: **66,094** 行代码（覆盖前 5 种语言、共 **510** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 51,362 | 3,783 | 6,348 | 343 |
+| Go | 51,459 | 3,784 | 6,366 | 344 |
 | Yaml | 9,885 | 126 | 113 | 111 |
 | Sh | 3,067 | 475 | 533 | 28 |
 | Bash | 697 | 45 | 137 | 17 |
@@ -30,9 +30,9 @@ x install k3s
 
 评分最低的几项:
 
-- **Vulnerabilities** (0/10) — 18 existing vulnerabilities detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Vulnerabilities** (0/10) — 15 existing vulnerabilities detected
 - **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -42,49 +42,49 @@ x install k3s
 
 ## 发布
 
-- **最新版本**: `v1.34.13+k3s1` (2026-09-30)
-- **最近提交**: 2026-11-03
+- **最新版本**: `v1.34.13+k3s1` (2026-11-03)
+- **最近提交**: 2026-11-05
 - **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 34,330 · **Fork**: 2,772 · **开放 issue**: 7,845 · **贡献者**: 322
+- **Star**: 34,333 · **Fork**: 2,774 · **开放 issue**: 7,845 · **贡献者**: 323
 
 ## 累计统计
 
-- **发布数**: 1059 · **已合并 PR**: 5068 · **开放 PR**: 30 · **已关闭 issue**: 7784 · **开放 issue**: 61 · **提交数**: 4388
+- **发布数**: 1059 · **已合并 PR**: 5070 · **开放 PR**: 35 · **已关闭 issue**: 7784 · **开放 issue**: 61 · **提交数**: 4390
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 12 | 99 | 23 | 53 | 16 | 45 |
-| last60d | 2026-09-05 | 27 | 168 | 23 | 112 | 21 | 82 |
-| 90d | 2026-08-06 | 36 | 218 | 24 | 139 | 23 | 127 |
-| last180d | 2026-05-08 | 71 | 433 | 26 | 331 | 24 | 266 |
-| 360d | 2025-11-09 | 100 | 864 | 27 | 653 | 30 | 533 |
-| last720d | 2024-11-14 | 100 | 1485 | 28 | 1609 | 38 | 984 |
+| 30d | 2026-10-06 | 12 | 94 | 28 | 53 | 16 | 47 |
+| last60d | 2026-09-06 | 27 | 170 | 28 | 112 | 21 | 84 |
+| 90d | 2026-08-07 | 36 | 219 | 29 | 139 | 23 | 129 |
+| last180d | 2026-05-09 | 71 | 435 | 31 | 331 | 24 | 268 |
+| 360d | 2025-11-10 | 100 | 865 | 32 | 653 | 30 | 535 |
+| last720d | 2024-11-15 | 100 | 1486 | 33 | 1609 | 38 | 985 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [k3s](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s) | 77.8 MiB | `other` |
-| [k3s-airgap-images-amd64.tar](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s-airgap-images-amd64.tar) | 186.9 MiB | `other` |
-| [k3s-airgap-images-amd64.tar.gz](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s-airgap-images-amd64.tar.gz) | 185.5 MiB | `native/linux/x64` |
-| [k3s-airgap-images-amd64.tar.zst](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s-airgap-images-amd64.tar.zst) | 185.4 MiB | `other` |
-| [k3s-airgap-images-arm.tar](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s-airgap-images-arm.tar) | 177.0 MiB | `other` |
-| [k3s-airgap-images-arm.tar.gz](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s-airgap-images-arm.tar.gz) | 176.0 MiB | `native/linux/arm` |
-| [k3s-airgap-images-arm.tar.zst](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s-airgap-images-arm.tar.zst) | 176.0 MiB | `other` |
-| [k3s-airgap-images-arm64.tar](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s-airgap-images-arm64.tar) | 169.4 MiB | `other` |
-| [k3s-airgap-images-arm64.tar.gz](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s-airgap-images-arm64.tar.gz) | 168.0 MiB | `native/linux/arm64` |
-| [k3s-airgap-images-arm64.tar.zst](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s-airgap-images-arm64.tar.zst) | 168.3 MiB | `other` |
-| [k3s-arm64](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s-arm64) | 70.3 MiB | `other` |
-| [k3s-armhf](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s-armhf) | 71.3 MiB | `other` |
-| [k3s-images.txt](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/k3s-images.txt) | 378 B | `other` |
-| [sha256sum-amd64.txt](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/sha256sum-amd64.txt) | 359 B | `other` |
-| [sha256sum-arm.txt](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/sha256sum-arm.txt) | 359 B | `other` |
-| [sha256sum-arm64.txt](https://github.com/k3s-io/k3s/releases/download/v1.37.1+k3s1/sha256sum-arm64.txt) | 365 B | `other` |
+| [k3s](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s) | 77.9 MiB | `other` |
+| [k3s-airgap-images-amd64.tar](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s-airgap-images-amd64.tar) | 190.2 MiB | `other` |
+| [k3s-airgap-images-amd64.tar.gz](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s-airgap-images-amd64.tar.gz) | 188.9 MiB | `native/linux/x64` |
+| [k3s-airgap-images-amd64.tar.zst](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s-airgap-images-amd64.tar.zst) | 189.1 MiB | `other` |
+| [k3s-airgap-images-arm.tar](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s-airgap-images-arm.tar) | 180.2 MiB | `other` |
+| [k3s-airgap-images-arm.tar.gz](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s-airgap-images-arm.tar.gz) | 179.2 MiB | `native/linux/arm` |
+| [k3s-airgap-images-arm.tar.zst](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s-airgap-images-arm.tar.zst) | 179.3 MiB | `other` |
+| [k3s-airgap-images-arm64.tar](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s-airgap-images-arm64.tar) | 172.8 MiB | `other` |
+| [k3s-airgap-images-arm64.tar.gz](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s-airgap-images-arm64.tar.gz) | 171.3 MiB | `native/linux/arm64` |
+| [k3s-airgap-images-arm64.tar.zst](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s-airgap-images-arm64.tar.zst) | 171.2 MiB | `other` |
+| [k3s-arm64](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s-arm64) | 70.6 MiB | `other` |
+| [k3s-armhf](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s-armhf) | 71.4 MiB | `other` |
+| [k3s-images.txt](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/k3s-images.txt) | 378 B | `other` |
+| [sha256sum-amd64.txt](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/sha256sum-amd64.txt) | 359 B | `other` |
+| [sha256sum-arm.txt](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/sha256sum-arm.txt) | 359 B | `other` |
+| [sha256sum-arm64.txt](https://github.com/k3s-io/k3s/releases/download/v1.37.2+k3s1/sha256sum-arm64.txt) | 365 B | `other` |
 
 ## 发行版状态
 
@@ -104,4 +104,4 @@ k3s 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T04:48:59Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T05:02:48Z._
