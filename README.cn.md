@@ -14,14 +14,14 @@ x install k3s
 
 ## 代码洞察
 
-合计: **66,094** 行代码（覆盖前 5 种语言、共 **510** 个文件）。
+合计: **66,115** 行代码（覆盖前 5 种语言、共 **510** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Go | 51,459 | 3,784 | 6,366 | 344 |
 | Yaml | 9,885 | 126 | 113 | 111 |
 | Sh | 3,067 | 475 | 533 | 28 |
-| Bash | 697 | 45 | 137 | 17 |
+| Bash | 718 | 47 | 138 | 17 |
 | Hcl | 455 | 4 | 89 | 10 |
 
 ## OpenSSF Scorecard 评分
@@ -31,8 +31,8 @@ x install k3s
 评分最低的几项:
 
 - **Vulnerabilities** (0/10) — 15 existing vulnerabilities detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 - **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: some github tokens can't read classic branch protect…
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install k3s
 
 ## 流行度
 
-- **Star**: 34,333 · **Fork**: 2,774 · **开放 issue**: 7,845 · **贡献者**: 323
+- **Star**: 34,339 · **Fork**: 2,774 · **开放 issue**: 7,845 · **贡献者**: 323
 
 ## 累计统计
 
-- **发布数**: 1059 · **已合并 PR**: 5070 · **开放 PR**: 35 · **已关闭 issue**: 7784 · **开放 issue**: 61 · **提交数**: 4390
+- **发布数**: 1059 · **已合并 PR**: 5071 · **开放 PR**: 34 · **已关闭 issue**: 7784 · **开放 issue**: 61 · **提交数**: 4391
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 12 | 94 | 28 | 53 | 16 | 47 |
-| last60d | 2026-09-06 | 27 | 170 | 28 | 112 | 21 | 84 |
-| 90d | 2026-08-07 | 36 | 219 | 29 | 139 | 23 | 129 |
-| last180d | 2026-05-09 | 71 | 435 | 31 | 331 | 24 | 268 |
-| 360d | 2025-11-10 | 100 | 865 | 32 | 653 | 30 | 535 |
-| last720d | 2024-11-15 | 100 | 1486 | 33 | 1609 | 38 | 985 |
+| 30d | 2026-10-07 | 12 | 89 | 27 | 48 | 16 | 48 |
+| last60d | 2026-09-07 | 27 | 171 | 27 | 111 | 21 | 85 |
+| 90d | 2026-08-08 | 36 | 220 | 28 | 139 | 23 | 130 |
+| last180d | 2026-05-10 | 71 | 435 | 30 | 330 | 24 | 269 |
+| 360d | 2025-11-11 | 100 | 861 | 31 | 647 | 30 | 536 |
+| last720d | 2024-11-16 | 100 | 1487 | 32 | 1607 | 38 | 986 |
 
 ## Release 资产
 
@@ -104,4 +104,4 @@ k3s 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T05:02:48Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T05:03:24Z._
