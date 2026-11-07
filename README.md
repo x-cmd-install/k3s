@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.34.13+k3s1` (2026-11-03)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 34,339 · **Forks**: 2,774 · **Open issues**: 7,845 · **Contributors**: 323
+- **Stars**: 34,350 · **Forks**: 2,774 · **Open issues**: 7,845 · **Contributors**: 323
 
 ## Totals (cumulative)
 
-- **Releases**: 1059 · **Merged PRs**: 5071 · **Open PRs**: 34 · **Closed issues**: 7784 · **Open issues**: 61 · **Commits**: 4391
+- **Releases**: 1059 · **Merged PRs**: 5100 · **Open PRs**: 16 · **Closed issues**: 7783 · **Open issues**: 62 · **Commits**: 4396
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 12 | 89 | 27 | 48 | 16 | 48 |
-| last60d | 2026-09-07 | 27 | 171 | 27 | 111 | 21 | 85 |
-| 90d | 2026-08-08 | 36 | 220 | 28 | 139 | 23 | 130 |
-| last180d | 2026-05-10 | 71 | 435 | 30 | 330 | 24 | 269 |
-| 360d | 2025-11-11 | 100 | 861 | 31 | 647 | 30 | 536 |
-| last720d | 2024-11-16 | 100 | 1487 | 32 | 1607 | 38 | 986 |
+| 30d | 2026-10-08 | 12 | 109 | 9 | 38 | 17 | 53 |
+| last60d | 2026-09-08 | 27 | 197 | 9 | 109 | 21 | 90 |
+| 90d | 2026-08-09 | 36 | 249 | 10 | 137 | 24 | 135 |
+| last180d | 2026-05-11 | 71 | 458 | 12 | 329 | 25 | 274 |
+| 360d | 2025-11-12 | 100 | 890 | 13 | 645 | 31 | 541 |
+| last720d | 2024-11-17 | 100 | 1516 | 14 | 1603 | 39 | 991 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T05:03:23Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T04:36:17Z._
