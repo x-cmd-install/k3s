@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 34,424 · **Forks**: 2,775 · **Open issues**: 7,854 · **Contributors**: 323
+- **Stars**: 34,432 · **Forks**: 2,778 · **Open issues**: 7,856 · **Contributors**: 323
 
 ## Totals (cumulative)
 
-- **Releases**: 1059 · **Merged PRs**: 5104 · **Open PRs**: 33 · **Closed issues**: 7785 · **Open issues**: 69 · **Commits**: 4399
+- **Releases**: 1059 · **Merged PRs**: 5107 · **Open PRs**: 30 · **Closed issues**: 7786 · **Open issues**: 70 · **Commits**: 4399
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 12 | 69 | 26 | 34 | 16 | 30 |
-| last60d | 2026-09-18 | 24 | 176 | 26 | 67 | 26 | 78 |
-| 90d | 2026-08-19 | 36 | 234 | 26 | 134 | 31 | 117 |
-| last180d | 2026-05-21 | 63 | 443 | 28 | 308 | 32 | 264 |
-| 360d | 2025-11-22 | 100 | 868 | 30 | 621 | 37 | 519 |
-| last720d | 2024-11-27 | 100 | 1502 | 31 | 1583 | 46 | 986 |
+| 30d | 2026-10-19 | 12 | 72 | 23 | 35 | 17 | 30 |
+| last60d | 2026-09-19 | 24 | 178 | 23 | 67 | 27 | 78 |
+| 90d | 2026-08-20 | 36 | 228 | 23 | 135 | 32 | 117 |
+| last180d | 2026-05-22 | 63 | 445 | 25 | 309 | 33 | 264 |
+| 360d | 2025-11-23 | 100 | 871 | 27 | 621 | 38 | 519 |
+| last720d | 2024-11-28 | 100 | 1501 | 28 | 1577 | 47 | 983 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Reported by **76** distros on [repology.org](https://repology.org/project/k3s). 
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `1.36.5+k3s1` | 🪦 legacy |
+| Nix unstable | `1.36.6+k3s1` | 🪦 legacy |
 | Alpine edge | `1.36.2.1` | ⚠️ outdated |
 
 ## Improve this data
@@ -104,4 +104,4 @@ Install metadata for k3s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T06:29:21Z._
+_Snapshot: `data/card/261118.yml` · 2026-11-18T05:54:30Z._
