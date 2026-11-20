@@ -76,18 +76,6 @@
     - oleg.titov@gmail.com
   licenses:
     - Apache-2.0
-- repo: aur
-  srcname: k3s-1.31-bin
-  binname: k3s-1.31-bin
-  visiblename: k3s-1.31-bin
-  version: 1.31.14
-  origversion: 1.31.14+k3s1-1
-  status: legacy
-  summary: Lightweight Kubernetes
-  maintainers:
-    - amiga23@aur
-  licenses:
-    - Apache
 - repo: alpine_3_19
   subrepo: community
   srcname: k3s
@@ -557,6 +545,18 @@
   licenses:
     - Apache
 - repo: aur
+  srcname: k3s-1.31-bin
+  binname: k3s-1.31-bin
+  visiblename: k3s-1.31-bin
+  version: 1.31.14
+  origversion: 1.31.14+k3s1-1
+  status: legacy
+  summary: Lightweight Kubernetes
+  maintainers:
+    - amiga23@aur
+  licenses:
+    - Apache
+- repo: aur
   srcname: k3s-1.32-bin
   binname: k3s-1.32-bin
   visiblename: k3s-1.32-bin
@@ -855,7 +855,7 @@
 - repo: nix_stable_26_05
   srcname: k3s
   visiblename: k3s
-  version: 1.35.8+k3s1
+  version: 1.35.10+k3s1
   origversion: null
   status: legacy
   summary: Lightweight Kubernetes distribution
@@ -873,7 +873,7 @@
 - repo: nix_stable_26_05
   srcname: k3s_1_35
   visiblename: k3s
-  version: 1.35.8+k3s1
+  version: 1.35.10+k3s1
   origversion: null
   status: legacy
   summary: Lightweight Kubernetes distribution
@@ -899,7 +899,7 @@
 - repo: nix_stable_26_05
   srcname: k3s_1_34
   visiblename: k3s
-  version: 1.34.11+k3s1
+  version: 1.34.13+k3s1
   origversion: null
   status: legacy
   summary: Lightweight Kubernetes distribution
@@ -917,7 +917,7 @@
 - repo: nix_stable_26_05
   srcname: k3s_1_36
   visiblename: k3s
-  version: 1.36.4+k3s1
+  version: 1.36.6+k3s1
   origversion: null
   status: outdated
   summary: Lightweight Kubernetes distribution
